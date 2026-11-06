@@ -1,0 +1,6 @@
+customtkinter>=5.2,<6
+numpy>=1.24,<3
+soundfile>=0.12
+# Torchaudio ve torchcodec gerektirmeyen WAV okuma yolunu kullanir.
+torch>=2.2
+demucs>=4.0,<5
